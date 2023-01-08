@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QuestionNare>
+    <Item>
+        <ID>1</ID>
+        <Question>An accident happened when he __________</Question>
+        <AnswerA>broke the speed limit</AnswerA>
+        <AnswerB>curbed traffic jams</AnswerB>
+        <AnswerC>went out of his car</AnswerC>
+        <AnswerD>stop the car</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question>In which city is this distinctive and famous building located?</Question>
+        <AnswerA>Sydney, Australia</AnswerA>
+        <AnswerB>Auckland, New Zealand</AnswerB>
+        <AnswerC>Bali, Indonesia</AnswerC>
+        <AnswerD>Ho Chi Minh, VietNam</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>I try to avoid driving during the _______ hour.</Question>
+        <AnswerA>busy</AnswerA>
+        <AnswerB>rush</AnswerB>
+        <AnswerC>fast</AnswerC>
+        <AnswerD>slow</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>Excuse me, is there a taxi _______ near here?</Question>
+        <AnswerA>rank</AnswerA>
+        <AnswerB>queue</AnswerB>
+        <AnswerC>line</AnswerC>
+        <AnswerD>in car</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>What is the name of this Pokemon?</Question>
+        <AnswerA>Pikachu</AnswerA>
+        <AnswerB>Raichu</AnswerB>
+        <AnswerC>Pichu</AnswerC>
+        <AnswerD>Pokemon</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>Slow down! The _______ limit is 30 kph.</Question>
+        <AnswerA>driving</AnswerA>
+        <AnswerB>traffic</AnswerB>
+        <AnswerC>speed</AnswerC>
+        <AnswerD>spit</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>He’s a waiter; she’s a _________.</Question>
+        <AnswerA>waiteress</AnswerA>
+        <AnswerB>waitress</AnswerB>
+        <AnswerC>waiter</AnswerC>
+        <AnswerD>waitree</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>What is the name of this sport?</Question>
+        <AnswerA>Cricket</AnswerA>
+        <AnswerB>Corkball</AnswerB>
+        <AnswerC>Kickball</AnswerC>
+        <AnswerD>Football</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>What is the name of the first U.S. President on the right of this picture?</Question>
+        <AnswerA>George Washington</AnswerA>
+        <AnswerB>Abraham Lincoln</AnswerB>
+        <AnswerC>Thomas Jefferson</AnswerC>
+        <AnswerD>John Adams</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>Argh! This noise is giving me a _________.</Question>
+        <AnswerA>headache</AnswerA>
+        <AnswerB>headhurt</AnswerB>
+        <AnswerC>headpain</AnswerC>
+        <AnswerD>headouch</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>11</ID>
+        <Question>tired –> exhausted
+            small –> tiny
+            angry –> _________</Question>
+        <AnswerA>vexed</AnswerA>
+        <AnswerB>furious</AnswerB>
+        <AnswerC>irritated</AnswerC>
+        <AnswerD>annoyed</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>12</ID>
+        <Question>Fruit and vegetables are healthy. = Fruit and vegetables are _________.</Question>
+        <AnswerA>healthsome</AnswerA>
+        <AnswerB>good for you</AnswerB>
+        <AnswerC>benefit for you</AnswerC>
+        <AnswerD>good for health</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>13</ID>
+        <Question>Are you planning to go _________ for the weekend?</Question>
+        <AnswerA>away</AnswerA>
+        <AnswerB>off</AnswerB>
+        <AnswerC>far</AnswerC>
+        <AnswerD>out</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>14</ID>
+        <Question>What is the approximate value of this mathematical constant?</Question>
+        <AnswerA>1.32</AnswerA>
+        <AnswerB>2.79</AnswerB>
+        <AnswerC>3.14</AnswerC>
+        <AnswerD>3.35</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>15</ID>
+        <Question>The weather was great – it was really _________.</Question>
+        <AnswerA>sun</AnswerA>
+        <AnswerB>strong sun</AnswerB>
+        <AnswerC>sunny</AnswerC>
+        <AnswerD>sunshine</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>16</ID>
+        <Question>How high is the Burj Khalifa in Dubai, United Arab Emirates?</Question>
+        <AnswerA>Around 830 metres</AnswerA>
+        <AnswerB>Around 960 metres</AnswerB>
+        <AnswerC>Around 1070 metres</AnswerC>
+        <AnswerD>Around 1150 metres</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>17</ID>
+        <Question>What is the name of this flower?</Question>
+        <AnswerA>Lilies</AnswerA>
+        <AnswerB>Roses</AnswerB>
+        <AnswerC>Daisies</AnswerC>
+        <AnswerD>Poppies</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>18</ID>
+        <Question>What is the name of this automotive brand?</Question>
+        <AnswerA>BMW</AnswerA>
+        <AnswerB>Volkswagen</AnswerB>
+        <AnswerC>Citroen</AnswerC>
+        <AnswerD>Bugatti</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>19</ID>
+        <Question>Who is the author of the famous painting “Mona Lisa?</Question>
+        <AnswerA>Rembrandt</AnswerA>
+        <AnswerB>Michelangelo</AnswerB>
+        <AnswerC>Leonardo Da Vinci</AnswerC>
+        <AnswerD>Vincent van Gogh</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>20</ID>
+        <Question>You can’t smoke here – please _________ your cigarette.</Question>
+        <AnswerA>put out</AnswerA>
+        <AnswerB>put up with</AnswerB>
+        <AnswerC>put away</AnswerC>
+        <AnswerD>put down</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>21</ID>
+        <Question>What is the name of this extinct flightless bird, which was endemic to the island of Mauritius in the Indian Ocean?</Question>
+        <AnswerA>Toto</AnswerA>
+        <AnswerB>Momo</AnswerB>
+        <AnswerC>Coco</AnswerC>
+        <AnswerD>Dodo</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question>It’s a good idea, but it’s _________ that the boss will agree with you.</Question>
+        <AnswerA>unprobably</AnswerA>
+        <AnswerB>improbably</AnswerB>
+        <AnswerC>likely</AnswerC>
+        <AnswerD>unlikely</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>Name of this ship?</Question>
+        <AnswerA>The Santa Maria</AnswerA>
+        <AnswerB>H.L. Hunley</AnswerB>
+        <AnswerC>The Mayflower</AnswerC>
+        <AnswerD>USS Constitution</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question>‘Happy’ is the _________ of ‘sad’.</Question>
+        <AnswerA>oppositive</AnswerA>
+        <AnswerB>opposed</AnswerB>
+        <AnswerC>opposite</AnswerC>
+        <AnswerD>oppose</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>25</ID>
+        <Question>Do you live in a house or _________?</Question>
+        <AnswerA>a building</AnswerA>
+        <AnswerB>a home</AnswerB>
+        <AnswerC>a village</AnswerC>
+        <AnswerD>an apartment</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question>In which country is this famous temple located?</Question>
+        <AnswerA>China</AnswerA>
+        <AnswerB>Thailand</AnswerB>
+        <AnswerC>South Korea</AnswerC>
+        <AnswerD>Taiwan</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question>She doesn’t have brothers or sisters – she’s _________.</Question>
+        <AnswerA>an only child</AnswerA>
+        <AnswerB>an alone child</AnswerB>
+        <AnswerC>a lonely child</AnswerC>
+        <AnswerD>a single child</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>28</ID>
+        <Question>Breakfast, lunch and dinner are _________.</Question>
+        <AnswerA>foodtimes</AnswerA>
+        <AnswerB>eatings</AnswerB>
+        <AnswerC>food</AnswerC>
+        <AnswerD>meals</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question>Which of the following cities has skyscrapers ?</Question>
+        <AnswerA>The Bahamas</AnswerA>
+        <AnswerB>Costa Rica</AnswerB>
+        <AnswerC>Dubai</AnswerC>
+        <AnswerD>New York</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>30</ID>
+        <Question>This fabled city with a well-preserved medieval core, canals can be found in what country?</Question>
+        <AnswerA>Belgium</AnswerA>
+        <AnswerB>France</AnswerB>
+        <AnswerC>Norway</AnswerC>
+        <AnswerD>Spain</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>31</ID>
+        <Question>Your father’s brother’s daughter is your _________.</Question>
+        <AnswerA>niece</AnswerA>
+        <AnswerB>cousin</AnswerB>
+        <AnswerC>cousina</AnswerC>
+        <AnswerD>sister</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>32</ID>
+        <Question>He’s so _________! I’m not _________ in anything he says.</Question>
+        <AnswerA>bored … interested</AnswerA>
+        <AnswerB>bored … interesting</AnswerB>
+        <AnswerC>boring … interesting</AnswerC>
+        <AnswerD>boring … interested</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>33</ID>
+        <Question>This city of temples is located in what country, also renowned as the birthplace of Buddha?</Question>
+        <AnswerA>Bangledesh</AnswerA>
+        <AnswerB>India</AnswerB>
+        <AnswerC>Nepal</AnswerC>
+        <AnswerD>Pakistan</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>There’s a lost city called Kilstiffen beneath these iconic cliffs — or so the story goes. They sprawl grandly over the Atlantic Ocean on the western coast of what country?</Question>
+        <AnswerA>Denmark</AnswerA>
+        <AnswerB>Iceland</AnswerB>
+        <AnswerC>Ireland</AnswerC>
+        <AnswerD>Netherlands</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>35</ID>
+        <Question>Where is the entertainment area for the rich located in Korea?</Question>
+        <AnswerA>Insadong</AnswerA>
+        <AnswerB>Sindang-dong</AnswerB>
+        <AnswerC>Itaewon</AnswerC>
+        <AnswerD>Seoul</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>36</ID>
+        <Question>Which country is depicted here?</Question>
+        <AnswerA>Russia</AnswerA>
+        <AnswerB>Canada</AnswerB>
+        <AnswerC>United States</AnswerC>
+        <AnswerD>Australia</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>Can you name this country?</Question>
+        <AnswerA>China</AnswerA>
+        <AnswerB>France</AnswerB>
+        <AnswerC>Australia</AnswerC>
+        <AnswerD>Lebanon</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>38</ID>
+        <Question>Name of this country?</Question>
+        <AnswerA>Italy</AnswerA>
+        <AnswerB>Morocco</AnswerB>
+        <AnswerC>United Kingdom</AnswerC>
+        <AnswerD>Mexico</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>39</ID>
+        <Question>Can you name the country based on the outline?</Question>
+        <AnswerA>Japan</AnswerA>
+        <AnswerB>New Zealand</AnswerB>
+        <AnswerC>Greece</AnswerC>
+        <AnswerD>United Kingdom</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>40</ID>
+        <Question>The name of the country's flag</Question>
+        <AnswerA>South Africa</AnswerA>
+        <AnswerB>Madagascar</AnswerB>
+        <AnswerC>Georgia</AnswerC>
+        <AnswerD>Argentina</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>41</ID>
+        <Question>The red in this country's flag symbolizes strength, the green represents hope and the white is for faithfulness. Name of this country?</Question>
+        <AnswerA>Italy</AnswerA>
+        <AnswerB>Hungary</AnswerB>
+        <AnswerC>Mexico</AnswerC>
+        <AnswerD>Libya</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>42</ID>
+        <Question>The green is for the beautiful forests and the yellow is for the gold. Name of this South American country?</Question>
+        <AnswerA>Mexico</AnswerA>
+        <AnswerB>Cuba</AnswerB>
+        <AnswerC>Ecuador</AnswerC>
+        <AnswerD>Brazil</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>43</ID>
+        <Question>The white on the flag stands for the hope that this country's people have for peace and the red represents their history. Name of this country?</Question>
+        <AnswerA>Poland</AnswerA>
+        <AnswerB>Spain</AnswerB>
+        <AnswerC>Romania</AnswerC>
+        <AnswerD>Greece</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>44</ID>
+        <Question>Which country's flag is this?</Question>
+        <AnswerA>Ivory Coast</AnswerA>
+        <AnswerB>Korea</AnswerB>
+        <AnswerC>Japan</AnswerC>
+        <AnswerD>Niger</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>45</ID>
+        <Question>Which country won the world cup 2018?</Question>
+        <AnswerA>Argentina</AnswerA>
+        <AnswerB>Croatia</AnswerB>
+        <AnswerC>Brazil</AnswerC>
+        <AnswerD>France</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>46</ID>
+        <Question>You could be forgiven for thinking this mammal is wearing a mask, like a cartoon villain. But they're not. What is it?</Question>
+        <AnswerA>A cat</AnswerA>
+        <AnswerB>A badger</AnswerB>
+        <AnswerC>A dog</AnswerC>
+        <AnswerD>A raccoon</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>47</ID>
+        <Question>We've disguised this walking fish for the purpose of this quiz. Do you know what they're called?</Question>
+        <AnswerA>Sea Salamander</AnswerA>
+        <AnswerB>Axolotl</AnswerB>
+        <AnswerC>Dave</AnswerC>
+        <AnswerD>Sea Fish</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>48</ID>
+        <Question>Who owns this nose?</Question>
+        <AnswerA>Rabbit</AnswerA>
+        <AnswerB>Llama</AnswerB>
+        <AnswerC>Donkey</AnswerC>
+        <AnswerD>Monkey</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>49</ID>
+        <Question>What's this?</Question>
+        <AnswerA>A duck's beak</AnswerA>
+        <AnswerB>A beaver's tail</AnswerB>
+        <AnswerC>A platypus's tongue</AnswerC>
+        <AnswerD>A seal's foot</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>50</ID>
+        <Question>What's this?</Question>
+        <AnswerA>An elephant</AnswerA>
+        <AnswerB>A manatee</AnswerB>
+        <AnswerC>A walrus</AnswerC>
+        <AnswerD>A bald pug</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>51</ID>
+        <Question>I suggest that you should ________ them about their plans. </Question>
+        <AnswerA>say with</AnswerA>
+        <AnswerB>said</AnswerB>
+        <AnswerC>tell to</AnswerC>
+        <AnswerD>speak to</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>52</ID>
+        <Question>I know somebody ________ can play the guitar.</Question>
+        <AnswerA>he</AnswerA>
+        <AnswerB>who</AnswerB>
+        <AnswerC>what</AnswerC>
+        <AnswerD>that he</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>53</ID>
+        <Question>Did you ask your father ________ some money?</Question>
+        <AnswerA>--</AnswerA>
+        <AnswerB>after</AnswerB>
+        <AnswerC>on</AnswerC>
+        <AnswerD>for</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>54</ID>
+        <Question>Do you like Greek food? Yes, ________.</Question>
+        <AnswerA>it's very well.</AnswerA>
+        <AnswerB>I like</AnswerB>
+        <AnswerC>is good</AnswerC>
+        <AnswerD>I do</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>55</ID>
+        <Question>You look ________ in red!</Question>
+        <AnswerA>most nicely</AnswerA>
+        <AnswerB>too nice</AnswerB>
+        <AnswerC>nicely</AnswerC>
+        <AnswerD>very nice</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>56</ID>
+        <Question>We know their address, but they don't know ________.</Question>
+        <AnswerA>ours</AnswerA>
+        <AnswerB>their's</AnswerB>
+        <AnswerC>our's</AnswerC>
+        <AnswerD>our</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>57</ID>
+        <Question>I’d rather be a millionaire. = ________</Question>
+        <AnswerA>I’ve been a millionaire.</AnswerA>
+        <AnswerB>I’d better be a millionaire.</AnswerB>
+        <AnswerC>I’d prefer to be a millionaire.</AnswerC>
+        <AnswerD>You have more millions than me.</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>58</ID>
+        <Question>Can you use ________ computer?</Question>
+        <AnswerA>a</AnswerA>
+        <AnswerB>one</AnswerB>
+        <AnswerC>two</AnswerC>
+        <AnswerD>an</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>59</ID>
+        <Question>Under no circumstances ________ or exchanged.</Question>
+        <AnswerA>good will be returned</AnswerA>
+        <AnswerB>goods should be returned</AnswerB>
+        <AnswerC>can good be returned</AnswerC>
+        <AnswerD>are goods being returned</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>60</ID>
+        <Question>Frank ________ when he noticed a large packing case lying on the floor</Question>
+        <AnswerA>has about to leave</AnswerA>
+        <AnswerB>had about to leave</AnswerB>
+        <AnswerC>is about to leave</AnswerC>
+        <AnswerD>was about to leave</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>61</ID>
+        <Question>He ________ newspapers for ten years.</Question>
+        <AnswerA>is selling</AnswerA>
+        <AnswerB>sells</AnswerB>
+        <AnswerC>has been selling</AnswerC>
+        <AnswerD>has been sold</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>62</ID>
+        <Question>This luggage is quite similar to ________.</Question>
+        <AnswerA>that one</AnswerA>
+        <AnswerB>those</AnswerB>
+        <AnswerC>in additional</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>63</ID>
+        <Question>Margaret as well as Jane ________ here since last week.</Question>
+        <AnswerA>has been</AnswerA>
+        <AnswerB>was</AnswerB>
+        <AnswerC>were</AnswerC>
+        <AnswerD>have been</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>64</ID>
+        <Question>The doctor showed the new nurse ________ to do.</Question>
+        <AnswerA>what</AnswerA>
+        <AnswerB>that</AnswerB>
+        <AnswerC>how</AnswerC>
+        <AnswerD>as</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>65</ID>
+        <Question>Frede came to the meeting but Charles ________.</Question>
+        <AnswerA>isn’t</AnswerA>
+        <AnswerB>hasn’t</AnswerB>
+        <AnswerC>didn’t</AnswerC>
+        <AnswerD>wasn’t</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>66</ID>
+        <Question>What does he ________ for a living.</Question>
+        <AnswerA>make</AnswerA>
+        <AnswerB>does</AnswerB>
+        <AnswerC>do</AnswerC>
+        <AnswerD>makes</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>67</ID>
+        <Question>He was ________ of all his money.</Question>
+        <AnswerA>stolen</AnswerA>
+        <AnswerB>robbed</AnswerB>
+        <AnswerC>removed</AnswerC>
+        <AnswerD>taken</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+
+    <Item>
+        <ID>68</ID>
+        <Question>The murderer was ________ yesterday.</Question>
+        <AnswerA>hanging</AnswerA>
+        <AnswerB>hung</AnswerB>
+        <AnswerC>hanged</AnswerC>
+        <AnswerD>hang</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>69</ID>
+        <Question>Don’t let your brothers ________ the present.</Question>
+        <AnswerA>to see</AnswerA>
+        <AnswerB>seeing</AnswerB>
+        <AnswerC>seen</AnswerC>
+        <AnswerD>see</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>70</ID>
+        <Question>No, thank you, I don’t ________ sugar in tea.</Question>
+        <AnswerA>take</AnswerA>
+        <AnswerB>put</AnswerB>
+        <AnswerC>eat</AnswerC>
+        <AnswerD>drink</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+
+    <Item>
+        <ID>71</ID>
+        <Question>Who are all ________ people?</Question>
+        <AnswerA>this</AnswerA>
+        <AnswerB>those</AnswerB>
+        <AnswerC>them</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>72</ID>
+        <Question>Claude is ________.</Question>
+        <AnswerA>Frenchman</AnswerA>
+        <AnswerB>a French</AnswerB>
+        <AnswerC>a Frenchman</AnswerC>
+        <AnswerD>French man</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>73</ID>
+        <Question>he oranges are ________.</Question>
+        <AnswerA>each one ten pence</AnswerA>
+        <AnswerB>ten pence the piece</AnswerB>
+        <AnswerC>each ten pence</AnswerC>
+        <AnswerD>ten pence each</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>74</ID>
+        <Question> – Are you ready? – ________.</Question>
+        <AnswerA>Already not</AnswerA>
+        <AnswerB>Quite not</AnswerB>
+        <AnswerC>Yet not</AnswerC>
+        <AnswerD>Not quite</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+    <Item>
+        <ID>75</ID>
+        <Question>They are all ________ ready for the party.</Question>
+        <AnswerA>getting</AnswerA>
+        <AnswerB>going</AnswerB>
+        <AnswerC>doing</AnswerC>
+        <AnswerD>putting</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>76</ID>
+        <Question>When do you go ________ bed?</Question>
+        <AnswerA>to</AnswerA>
+        <AnswerB>to the</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>in the</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>77</ID>
+        <Question>If I ________.the bus this afternoon, I’ll get a taxi instead.</Question>
+        <AnswerA>miss</AnswerA>
+        <AnswerB>will miss</AnswerB>
+        <AnswerC>missed</AnswerC>
+        <AnswerD>had missed</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>78</ID>
+        <Question>I think he ________ football now.</Question>
+        <AnswerA>is playing</AnswerA>
+        <AnswerB>has played</AnswerB>
+        <AnswerC>plays</AnswerC>
+        <AnswerD>played</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>79</ID>
+        <Question>He took ________ cheese.</Question>
+        <AnswerA>all of</AnswerA>
+        <AnswerB>all</AnswerB>
+        <AnswerC>the all</AnswerC>
+        <AnswerD>all of the</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>80</ID>
+        <Question>They ________ in Warsaw for about ten years.</Question>
+        <AnswerA>live</AnswerA>
+        <AnswerB>lived</AnswerB>
+        <AnswerC>lives</AnswerC>
+        <AnswerD>have lived</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>81</ID>
+        <Question>This price reduction is due to ________ among suppliers.</Question>
+        <AnswerA>complete</AnswerA>
+        <AnswerB>competition</AnswerB>
+        <AnswerC>competitor</AnswerC>
+        <AnswerD>compete</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>82</ID>
+        <Question>There are 54 ________ minorities in Vietnam.</Question>
+        <AnswerA>national</AnswerA>
+        <AnswerB>primary</AnswerB>
+        <AnswerC>ethnic</AnswerC>
+        <AnswerD>main</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>83</ID>
+        <Question>The company must reduce costs to compete ________. </Question>
+        <AnswerA>effect</AnswerA>
+        <AnswerB>affect</AnswerB>
+        <AnswerC>effective</AnswerC>
+        <AnswerD>effectively</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>84</ID>
+        <Question>He was considered “the Man of the Match” because he had ________ three goals in that match.</Question>
+        <AnswerA>won</AnswerA>
+        <AnswerB>succeeded</AnswerB>
+        <AnswerC>picked</AnswerC>
+        <AnswerD>scored</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>85</ID>
+        <Question>Education is the best ________. for children’s future.</Question>
+        <AnswerA>preparation</AnswerA>
+        <AnswerB>eradication</AnswerB>
+        <AnswerC>promotion</AnswerC>
+        <AnswerD>consideration</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>86</ID>
+        <Question>Nobody ________ to stay home on such a lovely summer day.</Question>
+        <AnswerA>want</AnswerA>
+        <AnswerB>wants</AnswerB>
+        <AnswerC>wanting</AnswerC>
+        <AnswerD>to want</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>87</ID>
+        <Question>________ anyone know where he’s now?</Question>
+        <AnswerA>Do</AnswerA>
+        <AnswerB>Is</AnswerB>
+        <AnswerC>Does</AnswerC>
+        <AnswerD>Has</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>88</ID>
+        <Question>I didn’t think his the comments were very ________ at the time.</Question>
+        <AnswerA>correct</AnswerA>
+        <AnswerB>right</AnswerB>
+        <AnswerC>exact</AnswerC>
+        <AnswerD>suitable</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>89</ID>
+        <Question>GCSE are not ________ but they are the most common qualifications taken by students.</Question>
+        <AnswerA>required</AnswerA>
+        <AnswerB>applied</AnswerB>
+        <AnswerC>fulfilled</AnswerC>
+        <AnswerD>specialized</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>90</ID>
+        <Question>I received housing benefit when I was ________</Question>
+        <AnswerA>this</AnswerA>
+        <AnswerB>those</AnswerB>
+        <AnswerC>them</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>91</ID>
+        <Question>The related publications are far too ________ to list individually.</Question>
+        <AnswerA>much</AnswerA>
+        <AnswerB>legion</AnswerB>
+        <AnswerC>few</AnswerC>
+        <AnswerD>full</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>92</ID>
+        <Question>The teacher gave some ________ on what would come out for the examination.</Question>
+        <AnswerA>symptoms</AnswerA>
+        <AnswerB>demonstrations</AnswerB>
+        <AnswerC>effects</AnswerC>
+        <AnswerD>hints</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>93</ID>
+        <Question>When being interviewed, you should ________ on what the interviewer is saying or asking you.</Question>
+        <AnswerA>relate on</AnswerA>
+        <AnswerB>be interested in</AnswerB>
+        <AnswerC>impress on</AnswerC>
+        <AnswerD>pay attention to</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>94</ID>
+        <Question>She came to the meeting late ________ so she would miss the introductory speech.</Question>
+        <AnswerA>aiming at</AnswerA>
+        <AnswerB>intentionally</AnswerB>
+        <AnswerC>reasonably</AnswerC>
+        <AnswerD>with a goal</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>95</ID>
+        <Question>The use of lasers in surgery has become ________ commonplace in recent years.</Question>
+        <AnswerA>comparatively</AnswerA>
+        <AnswerB>relevantly</AnswerB>
+        <AnswerC>absolutely</AnswerC>
+        <AnswerD>almost</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>96</ID>
+        <Question>When I was little, my father gave me some advice. He said ________ to the strangers.</Question>
+        <AnswerA>I shouldn’t talk</AnswerA>
+        <AnswerB>that shouldn’t talk</AnswerB>
+        <AnswerC>don’t talk</AnswerC>
+        <AnswerD>that I don’t talk</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>97</ID>
+        <Question>‘Should we turn left or go straight?’ ‘Hmm, I’m not sure which way ________</Question>
+        <AnswerA>do we turn</AnswerA>
+        <AnswerB>to turn</AnswerB>
+        <AnswerC>should we turn</AnswerC>
+        <AnswerD>it turned</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>98</ID>
+        <Question>She ________ her holiday in Finland.</Question>
+        <AnswerA>said me about</AnswerA>
+        <AnswerB>told about</AnswerB>
+        <AnswerC>said about</AnswerC>
+        <AnswerD>told me about</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>99</ID>
+        <Question>I don’t know why Susan didn’t go to the meeting. She said ________</Question>
+        <AnswerA>she will definitely go</AnswerA>
+        <AnswerB>she was definitely going</AnswerB>
+        <AnswerC>she had definitely gone</AnswerC>
+        <AnswerD>she is definitely going</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>100</ID>
+        <Question>The librarian asked us ________ so much noise.</Question>
+        <AnswerA>don’t make</AnswerA>
+        <AnswerB>not make</AnswerB>
+        <AnswerC>not making</AnswerC>
+        <AnswerD>not to make</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+
+</QuestionNare>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC9>
+    <Item>
+        <ID>1</ID>
+        <Question>oxygen</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>afraid</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>animal</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>answer</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>beauty</Question>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>like</Question>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>unlike</Question>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>lazy</Question>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>smart</Question>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>particular</Question>
+    </Item>
+</QuestionNareC9>

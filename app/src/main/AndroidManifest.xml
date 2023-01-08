@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.englishapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ENGLISHAPP">
+        <activity
+            android:name=".guidemultiple2"
+            android:exported="true" />
+        <activity
+            android:name=".guidemultiple1"
+            android:exported="true" />
+        <activity
+            android:name=".guidecw"
+            android:exported="true" />
+        <activity
+            android:name=".guidegame"
+            android:exported="true" />
+        <activity
+            android:name=".bieudo"
+            android:exported="true" />
+        <activity
+            android:name=".ketqua"
+            android:exported="true" />
+        <activity
+            android:name=".entername"
+            android:exported="true" />
+        <activity
+            android:name=".Correctwordhighscore"
+            android:exported="true" />
+        <activity
+            android:name=".Multiplehighscore"
+            android:exported="true" />
+        <activity
+            android:name=".multiple"
+            android:exported="true" />
+        <activity
+            android:name=".CorrectwordFix"
+            android:exported="true" />
+        <activity
+            android:name=".correctword_notification"
+            android:exported="true" />
+        <activity
+            android:name=".correctword_test"
+            android:exported="true" />
+        <activity
+            android:name=".history"
+            android:exported="true" />
+        <activity
+            android:name=".choose"
+            android:exported="true" />
+        <activity
+            android:name=".mode"
+            android:exported="true" />
+        <activity
+            android:name=".login"
+            android:exported="true" />
+        <activity
+            android:name=".signup"
+            android:exported="true" />
+        <activity
+            android:name=".correctword"
+            android:exported="true" />
+        <activity
+            android:name=".correctword_test1"
+            android:exported="true" />
+        <activity
+            android:name=".correctword_highscore"
+            android:exported="true" />
+        <activity
+            android:name=".playername"
+            android:exported="true" />
+        <activity
+            android:name=".correctword_result"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

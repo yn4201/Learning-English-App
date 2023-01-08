@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC7>
+    <Item>
+        <ID>1</ID>
+        <Question>apple</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>begin</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>color</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>anger</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>allow</Question>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>chocolate</Question>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>angle</Question>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>admin</Question>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>necessary</Question>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>photographer</Question>
+    </Item>
+</QuestionNareC7>

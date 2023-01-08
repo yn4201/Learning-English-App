@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/manhinhhd1"
+    tools:context=".guidemultiple1">
+    <ImageButton
+        android:id="@+id/homeBtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/back"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        app:iconTint="#FBFBFB"
+        />
+    <ImageButton
+        android:id="@+id/nextBtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/next"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="320dp"
+        app:iconTint="#FBFBFB"
+        />
+<!--    <Button-->
+<!--        android:id="@+id/nextBtn"-->
+<!--        android:layout_width="140dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginStart="32dp"-->
+<!--        android:layout_marginEnd="32dp"-->
+<!--        android:layout_marginBottom="28dp"-->
+<!--        android:backgroundTint="@color/blue"-->
+<!--        android:fontFamily="sans-serif"-->
+<!--        android:text="NEXT"-->
+<!--        android:textSize="23sp"-->
+<!--        app:iconTint="#FBFBFB"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.497"-->
+<!--        app:layout_constraintStart_toStartOf="parent" />-->
+</LinearLayout>

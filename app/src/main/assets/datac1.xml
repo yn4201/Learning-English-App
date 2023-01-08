@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC1>
+    <Item>
+        <ID>1</ID>
+        <Question>n/c/i/e</Question>
+        <Answer>nice</Answer>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>s/i</Question>
+        <Answer>is</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>o/u/s/m/e</Question>
+        <Answer>mouse</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>o/m/h/e/r/t</Question>
+        <Answer>mother</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>t/a</Question>
+        <Answer>at</Answer>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>e/c/b/e/m/e/d/r</Question>
+        <Answer>december</Answer>
+
+        <Item>
+            <ID>7</ID>
+            <Question>h/d/r/e/n/d/u</Question>
+            <Answer>hundred</Answer>
+        </Item>
+
+        <Item>
+            <ID>8</ID>
+            <Question>a/n/b/n/d/o/a</Question>
+            <Answer>abandon</Answer>
+        </Item>
+
+        <Item>
+            <ID>9</ID>
+            <Question>e/b/t</Question>
+            <Answer>bet</Answer>
+        </Item>
+
+        <Item>
+            <ID>10</ID>
+            <Question>c/m/o/r/f/t/o/b/a/e/l</Question>
+            <Answer>comfortable</Answer>
+        </Item>
+
+    </Item>
+
+
+
+</QuestionNareC1>

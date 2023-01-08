@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC6>
+    <Item>
+        <ID>1</ID>
+        <Question>cool</Question>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>bell</Question>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>bank</Question>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>area</Question>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>band</Question>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>white</Question>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>hundred</Question>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>abandon</Question>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>between</Question>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>company</Question>
+    </Item>
+</QuestionNareC6>

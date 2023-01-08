@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC3>
+    <Item>
+        <ID>1</ID>
+        <Question>e/r/a</Question>
+        <Answer>are</Answer>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>h/a/s</Question>
+        <Answer>has</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>x/i/s</Question>
+        <Answer>six</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>n/e/t</Question>
+        <Answer>ten</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>y/s/k</Question>
+        <Answer>sky</Answer>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>n/e/p</Question>
+        <Answer>pen</Answer>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>o/n/e/p</Question>
+        <Answer>open</Answer>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>e/l/v/o</Question>
+        <Answer>love</Answer>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>y/e/n/o/m</Question>
+        <Answer>money</Answer>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>m/i/g/a/e</Question>
+        <Answer>image</Answer>
+    </Item>
+
+</QuestionNareC3>

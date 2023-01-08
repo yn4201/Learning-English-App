@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionNareC2>
+    <Item>
+        <ID>1</ID>
+        <Question>e/b</Question>
+        <Answer>be</Answer>
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Question>o/d</Question>
+        <Answer>do</Answer>
+    </Item>
+
+    <Item>
+        <ID>3</ID>
+        <Question>o/g</Question>
+        <Answer>go</Answer>
+    </Item>
+
+    <Item>
+        <ID>4</ID>
+        <Question>e/h</Question>
+        <Answer>he</Answer>
+    </Item>
+
+    <Item>
+        <ID>5</ID>
+        <Question>f/i</Question>
+        <Answer>if</Answer>
+    </Item>
+
+    <Item>
+        <ID>6</ID>
+        <Question>c/m/o/a/p/r/e</Question>
+        <Answer>compare</Answer>
+    </Item>
+
+    <Item>
+        <ID>7</ID>
+        <Question>o/a/c/n/i/n/t</Question>
+        <Answer>contain</Answer>
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+        <Question>e/e/v/l/p/o/d</Question>
+        <Answer>develop</Answer>
+    </Item>
+
+    <Item>
+        <ID>9</ID>
+        <Question>a/n/u/t/r/a/l</Question>
+        <Answer>natural</Answer>
+    </Item>
+
+    <Item>
+        <ID>10</ID>
+        <Question>e/e/o/p/r/a/t</Question>
+        <Answer>operate</Answer>
+    </Item>
+
+</QuestionNareC2>
